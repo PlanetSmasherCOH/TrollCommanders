@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BurnInfoRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders.xml</FileName>
+			<FileHash>a8295b90eed159a0165ac624bdf0c3f3</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\abilities\troll_commanders\koenigskuebelwagen_dispatch.xml</FileName>
+			<FileHash>3c53af3857927867f5e9731580eb6980</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\army\west_german.xml</FileName>
+			<FileHash>35a345701ad81c9c62b550e95cdc62ee</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\ebps\troll_commanders\koenigskuebelwagen.xml</FileName>
+			<FileHash>786df08473eb15d93a9b8d11756932f4</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\sbps\troll_commanders\koenigskuebelwagen.xml</FileName>
+			<FileHash>028671439dc96feeb215e817043feda2</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\weapon\troll_commanders\koenigskuebelwagen_88mm.xml</FileName>
+			<FileHash>2e6ec9906793e4fc9bff1ec6502304ef</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\locale\english\english.ucs</FileName>
+			<FileHash>7a58935097047059428029d04e3e4170</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\info\805aa48200374ca88666f7c0d1fbafe0.info</FileName>
+			<FileHash>15f5ab8def52d16ed39d412f25f21482</FileHash>
+		</BurnInfo>
+	</BurnInfo>
+	<BurnInfoExtendedInfo />
+</BurnInfoRoot>
