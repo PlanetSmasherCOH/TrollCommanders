@@ -6,7 +6,9 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\abilities\troll_commanders\koenigskuebelwagen_dispatch.rgd
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\army\west_german.rgd
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\ebps\troll_commanders\koenigskuebelwagen.rgd
+	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\ebps\troll_commanders\koenigstiger_ace.rgd
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\sbps\troll_commanders\koenigskuebelwagen.rgd
+	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\sbps\troll_commanders\koenigstiger_ace.rgd
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\weapon\troll_commanders\koenigskuebelwagen_88mm.rgd
 TOCEnd
 TOCStart name="locale" alias="locale" path="" relativeroot="locale"

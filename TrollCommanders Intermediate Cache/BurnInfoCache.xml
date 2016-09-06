@@ -15,11 +15,19 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\ebps\troll_commanders\koenigskuebelwagen.xml</FileName>
-			<FileHash>786df08473eb15d93a9b8d11756932f4</FileHash>
+			<FileHash>cab1606598d24e8a149f412d6bce3ca6</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\ebps\troll_commanders\koenigstiger_ace.xml</FileName>
+			<FileHash>a7ecb93cb8b3c24afdd7f19637c6833e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\sbps\troll_commanders\koenigskuebelwagen.xml</FileName>
 			<FileHash>028671439dc96feeb215e817043feda2</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\sbps\troll_commanders\koenigstiger_ace.xml</FileName>
+			<FileHash>87f424902b5229c32b803d5c5a572a78</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\weapon\troll_commanders\koenigskuebelwagen_88mm.xml</FileName>
