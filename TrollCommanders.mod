@@ -44,6 +44,17 @@
 			</Children>
 			<IsExpanded>false</IsExpanded>
 		</d2p1:anyType>
+		<d2p1:anyType i:type="TableOfContents">
+			<Alias>Data</Alias>
+			<Children>
+				<d2p1:anyType i:type="BurnFolder">
+					<BurnSettings />
+					<Hint>Default</Hint>
+					<RelativeName>data</RelativeName>
+				</d2p1:anyType>
+			</Children>
+			<IsExpanded>true</IsExpanded>
+		</d2p1:anyType>
 	</Children>
 	<Guid>805aa482-0037-4ca8-8666-f7c0d1fbafe0</Guid>
 	<IsExpanded>false</IsExpanded>
