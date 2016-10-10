@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<display:MovieClip xmlns:fx='http://ns.adobe.com/mxml/2009' xmlns:display='flash.display.*'>
+	<fx:Script>
+		<![CDATA[
+		[Embed(source='E:/Spiele/CoH2-Mods/TrollCommanders/data/ui/beutepanzer_icon.png')]
+		public static var beutepanzer_icon:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/TrollCommanders/data/ui/beutepanzer_portrait_summer.png')]
+		public static var beutepanzer_portrait_summer:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/TrollCommanders/data/ui/beutepanzer_portrait_winter.png')]
+		public static var beutepanzer_portrait_winter:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/TrollCommanders/data/ui/prostfallschirmjaeger_icon.png')]
+		public static var prostfallschirmjaeger_icon:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/TrollCommanders/data/ui/prostfallschirmjaeger_portrait_summer.png')]
+		public static var prostfallschirmjaeger_portrait_summer:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/TrollCommanders/data/ui/prostfallschirmjaeger_portrait_winter.png')]
+		public static var prostfallschirmjaeger_portrait_winter:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/TrollCommanders/data/ui/prostoffizier_icon.png')]
+		public static var prostoffizier_icon:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/TrollCommanders/data/ui/prostoffizier_portrait_summer.png')]
+		public static var prostoffizier_portrait_summer:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/TrollCommanders/data/ui/prostoffizier_portrait_winter.png')]
+		public static var prostoffizier_portrait_winter:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/TrollCommanders/data/ui/prosttruppen_icon.png')]
+		public static var prosttruppen_icon:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/TrollCommanders/data/ui/prosttruppen_portrait_summer.png')]
+		public static var prosttruppen_portrait_summer:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/TrollCommanders/data/ui/prosttruppen_portrait_winter.png')]
+		public static var prosttruppen_portrait_winter:Class;
+		]]>
+	</fx:Script>
+</display:MovieClip>

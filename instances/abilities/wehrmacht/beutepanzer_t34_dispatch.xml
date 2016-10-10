@@ -99,7 +99,7 @@
 			<locstring name="extra_text" value="29" mod="805aa48200374ca88666f7c0d1fbafe0" />
 			<locstring name="help_text" value="23" mod="805aa48200374ca88666f7c0d1fbafe0" />
 			<string name="hotkey_name" value="" />
-			<icon name="icon_name" value="Icons_vehicles_vehicle_soviet_t34_76_heavy_tank" />
+			<icon name="icon_name" value="ModIcons_805aa48200374ca88666f7c0d1fbafe0_beutepanzer_icon" />
 			<string name="overlay_name" value="" />
 			<bool name="reveal_for_decryption" value="False" />
 			<locstring name="screen_name" value="38" mod="805aa48200374ca88666f7c0d1fbafe0" />

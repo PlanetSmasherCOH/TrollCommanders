@@ -30,7 +30,7 @@
 					<Name>english</Name>
 				</d2p1:anyType>
 			</Children>
-			<IsExpanded>false</IsExpanded>
+			<IsExpanded>true</IsExpanded>
 		</d2p1:anyType>
 		<d2p1:anyType i:type="TableOfContents">
 			<Alias>Info</Alias>
@@ -42,15 +42,31 @@
 					<Name>Troll Commanders</Name>
 				</d2p1:anyType>
 			</Children>
-			<IsExpanded>false</IsExpanded>
+			<IsExpanded>true</IsExpanded>
 		</d2p1:anyType>
 		<d2p1:anyType i:type="TableOfContents">
 			<Alias>Data</Alias>
 			<Children>
-				<d2p1:anyType i:type="BurnFolder">
-					<BurnSettings />
-					<Hint>Default</Hint>
-					<RelativeName>data</RelativeName>
+				<d2p1:anyType i:type="Folder">
+					<Children>
+						<d2p1:anyType i:type="BurnFolder">
+							<BurnSettings />
+							<Hint>Default</Hint>
+							<RelativeName>data\art</RelativeName>
+						</d2p1:anyType>
+					</Children>
+					<IsExpanded>true</IsExpanded>
+					<Name>art</Name>
+				</d2p1:anyType>
+				<d2p1:anyType i:type="Folder">
+					<Children>
+						<d2p1:anyType i:type="BurnIcons">
+							<PackSize>1024</PackSize>
+							<RelativeName>data\ui</RelativeName>
+						</d2p1:anyType>
+					</Children>
+					<IsExpanded>true</IsExpanded>
+					<Name>ui</Name>
 				</d2p1:anyType>
 			</Children>
 			<IsExpanded>true</IsExpanded>

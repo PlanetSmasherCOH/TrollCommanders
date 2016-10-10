@@ -166,6 +166,13 @@
 					<int name="trigger_replace_at_entity_death_count" value="4" />
 					<uniqueid name="id" value="1073741924" />
 				</template_reference>
+				<template_reference name="action" value="action\resource_income_conversion_action">
+					<enum name="convert_from" value="manpower" />
+					<enum name="convert_to" value="manpower" />
+					<float name="percent_take_from" value="0.5" />
+					<float name="trade_ratio" value="0" />
+					<uniqueid name="id" value="1073741982" />
+				</template_reference>
 			</list>
 			<list name="start_target_actions">
 			</list>

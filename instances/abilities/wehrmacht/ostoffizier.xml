@@ -99,7 +99,7 @@
 			<locstring name="extra_text" value="0" />
 			<locstring name="help_text" value="0" />
 			<string name="hotkey_name" value="" />
-			<icon name="icon_name" value="Icons_commander_cmdr_german_field_officer_group" />
+			<icon name="icon_name" value="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prostoffizier_icon" />
 			<string name="overlay_name" value="" />
 			<bool name="reveal_for_decryption" value="True" />
 			<locstring name="screen_name" value="50" mod="805aa48200374ca88666f7c0d1fbafe0" />

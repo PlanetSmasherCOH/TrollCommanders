@@ -158,7 +158,7 @@
 			<locstring name="extra_text" value="67" mod="805aa48200374ca88666f7c0d1fbafe0" />
 			<locstring name="help_text" value="66" mod="805aa48200374ca88666f7c0d1fbafe0" />
 			<string name="hotkey_name" value="" />
-			<icon name="icon_name" value="Icons_units_unit_german_ostruppen" />
+			<icon name="icon_name" value="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prostfallschirmjaeger_icon" />
 			<string name="overlay_name" value="" />
 			<bool name="reveal_for_decryption" value="True" />
 			<locstring name="screen_name" value="65" mod="805aa48200374ca88666f7c0d1fbafe0" />
