@@ -8,6 +8,12 @@
 		public static var beutepanzer_portrait_summer:Class;
 		[Embed(source='E:/Spiele/CoH2-Mods/TrollCommanders/data/ui/beutepanzer_portrait_winter.png')]
 		public static var beutepanzer_portrait_winter:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/TrollCommanders/data/ui/elite_prosttruppen_passive.png')]
+		public static var elite_prosttruppen_passive:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/TrollCommanders/data/ui/elite_prosttruppen_upgrade.png')]
+		public static var elite_prosttruppen_upgrade:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/TrollCommanders/data/ui/more_prosttruppen.png')]
+		public static var more_prosttruppen:Class;
 		[Embed(source='E:/Spiele/CoH2-Mods/TrollCommanders/data/ui/prostfallschirmjaeger_icon.png')]
 		public static var prostfallschirmjaeger_icon:Class;
 		[Embed(source='E:/Spiele/CoH2-Mods/TrollCommanders/data/ui/prostfallschirmjaeger_portrait_summer.png')]
@@ -20,6 +26,10 @@
 		public static var prostoffizier_portrait_summer:Class;
 		[Embed(source='E:/Spiele/CoH2-Mods/TrollCommanders/data/ui/prostoffizier_portrait_winter.png')]
 		public static var prostoffizier_portrait_winter:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/TrollCommanders/data/ui/prosttruppen_commander.png')]
+		public static var prosttruppen_commander:Class;
+		[Embed(source='E:/Spiele/CoH2-Mods/TrollCommanders/data/ui/prosttruppen_commander_large.png')]
+		public static var prosttruppen_commander_large:Class;
 		[Embed(source='E:/Spiele/CoH2-Mods/TrollCommanders/data/ui/prosttruppen_icon.png')]
 		public static var prosttruppen_icon:Class;
 		[Embed(source='E:/Spiele/CoH2-Mods/TrollCommanders/data/ui/prosttruppen_portrait_summer.png')]

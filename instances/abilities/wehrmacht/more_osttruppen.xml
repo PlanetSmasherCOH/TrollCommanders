@@ -78,7 +78,7 @@
 									<template_reference name="ui_info" value="tables\ui_info">
 										<locstring name="screen_name" value="49" mod="805aa48200374ca88666f7c0d1fbafe0" />
 										<locstring name="help_text" value="48" mod="805aa48200374ca88666f7c0d1fbafe0" />
-										<icon name="icon_name" value="Icons_commander_cmdr_german_relief_infantry" />
+										<icon name="icon_name" value="ModIcons_805aa48200374ca88666f7c0d1fbafe0_more_prosttruppen" />
 										<string name="hotkey_name" value="" />
 									</template_reference>
 									<uniqueid name="id" value="1073741922" />
@@ -133,7 +133,7 @@
 							<bool name="trigger_on_squad_death" value="False" />
 						</group>
 						<group name="replace_info">
-							<instance_reference name="squad_type_to_monitor" value="sbps\races\german\soldiers\ostruppen_squad\ostruppen_squad_mp" mod="805aa48200374ca88666f7c0d1fbafe0" />
+							<instance_reference name="squad_type_to_monitor" value="" />
 							<bool name="trigger_on_squad_death" value="False" />
 						</group>
 						<group name="replace_info">
@@ -161,7 +161,7 @@
 							<bool name="trigger_on_squad_death" value="False" />
 						</group>
 					</list>
-					<instance_reference name="replacement_squad_type" value="sbps\races\german\soldiers\ostruppen_squad\ostruppen_squad_mp" mod="805aa48200374ca88666f7c0d1fbafe0" />
+					<instance_reference name="replacement_squad_type" value="" />
 					<int name="spawn_count" value="1" />
 					<int name="trigger_replace_at_entity_death_count" value="4" />
 					<uniqueid name="id" value="1073741924" />
@@ -244,7 +244,7 @@
 			<locstring name="extra_text" value="43" mod="805aa48200374ca88666f7c0d1fbafe0" />
 			<locstring name="help_text" value="44" mod="805aa48200374ca88666f7c0d1fbafe0" />
 			<string name="hotkey_name" value="" />
-			<icon name="icon_name" value="Icons_commander_cmdr_german_relief_infantry" />
+			<icon name="icon_name" value="ModIcons_805aa48200374ca88666f7c0d1fbafe0_more_prosttruppen" />
 			<string name="overlay_name" value="" />
 			<bool name="reveal_for_decryption" value="False" />
 			<locstring name="screen_name" value="42" mod="805aa48200374ca88666f7c0d1fbafe0" />

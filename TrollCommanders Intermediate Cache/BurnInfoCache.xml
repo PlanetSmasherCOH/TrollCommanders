@@ -27,7 +27,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\abilities\german\modal_ability\dispatch\ostruppen.xml</FileName>
-			<FileHash>179fab897a0ee5cb36bd9c4b8b435935</FileHash>
+			<FileHash>2ced9b59f8c3095adc6279bcfd14bc13</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\abilities\okw\koenigskuebelwagen_dispatch.xml</FileName>
@@ -38,20 +38,16 @@
 			<FileHash>364434abd024921e2e599e5d8d6d7c6b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\abilities\wehrmacht\beutepanzer_smoke.xml</FileName>
-			<FileHash>5013d4e9cf4e29109513fba2de3ea9c0</FileHash>
-		</BurnInfo>
-		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\abilities\wehrmacht\beutepanzer_t34_dispatch.xml</FileName>
-			<FileHash>e68e2f89327519fb9ef6748c0fa31837</FileHash>
+			<FileHash>fa3e5ec16884d17beddad9d63aaf596d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\abilities\wehrmacht\elite_osttruppen.xml</FileName>
-			<FileHash>45bb1df083294fc174fd0fe2fbcf707b</FileHash>
+			<FileHash>bac00e0ca9d0349701674a4717ca8a13</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\abilities\wehrmacht\more_osttruppen.xml</FileName>
-			<FileHash>af76943c16fbab31dc934db4b8c1c3ee</FileHash>
+			<FileHash>6d47cf45e67a87be709a77345daf4f23</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\abilities\wehrmacht\ostfallschirmjaeger.xml</FileName>
@@ -62,16 +58,24 @@
 			<FileHash>d504f322ec6bd66199fcd5988fe32cbd</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\abilities\wehrmacht\osttruppen.xml</FileName>
+			<FileHash>c267cbbaff143fe0baebd11846dde9d2</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\abilities\wehrmacht\osttruppen_stielhandgranate24.xml</FileName>
 			<FileHash>4e7a3f7a26bf86b0743f69b2dfca0210</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\army\german.xml</FileName>
-			<FileHash>a30827883092bb98e9fa9d2f55a9af3d</FileHash>
+			<FileHash>27e60001508cf63a66d60340a464271f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\army\west_german.xml</FileName>
 			<FileHash>49f8d4aeeb61c5c4f7cb2b4f3ae7e4d3</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\commander\german\german_ostruppen_tree.xml</FileName>
+			<FileHash>0a690663c5aae4b57c71851c4d79880d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\ebps\okw\koenigskuebelwagen.xml</FileName>
@@ -86,16 +90,16 @@
 			<FileHash>25576b66a3dc3de8770cfc1e0471fe73</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\ebps\races\german\soldiers\ostruppen_soldier\ostruppen_soldier_mp.xml</FileName>
-			<FileHash>dadbd0a254c00f3b70de0532a698446b</FileHash>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\ebps\wehrmacht\ostfallschirmjaeger_plane.xml</FileName>
+			<FileHash>45e6f8460616547c3346adb23bd4f842</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\ebps\wehrmacht\ostfallschirmjaeger_plane.xml</FileName>
-			<FileHash>64845945709b4cb7418f0f7f4a65d936</FileHash>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\ebps\wehrmacht\osttruppen.xml</FileName>
+			<FileHash>85cd7728b4a578b034d9728126af5b27</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\ebps\wehrmacht\t34_beutepanzer.xml</FileName>
-			<FileHash>5d7c6672dcf25f6ce780e88cdd7e771c</FileHash>
+			<FileHash>c12c698cbb1c014229ff76943ae2a157</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\sbps\okw\koenigskuebelwagen.xml</FileName>
@@ -106,20 +110,24 @@
 			<FileHash>896448004c71a5f33fb311e16116ea45</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\sbps\races\german\soldiers\ostruppen_squad\ostruppen_squad_mp.xml</FileName>
-			<FileHash>423d4a527a3b5b7cb75a3bc06931d188</FileHash>
-		</BurnInfo>
-		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\sbps\wehrmacht\ostfallschirmjaeger_plane.xml</FileName>
 			<FileHash>50637a9b04f32b233447808f2cfe0ba3</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\sbps\wehrmacht\osttruppen.xml</FileName>
+			<FileHash>f1881d7949ba7a797005f22b045b1e38</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\sbps\wehrmacht\t34_beutepanzer.xml</FileName>
 			<FileHash>56d400ace7287bca09708d446411f519</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\slot_item\wehrmacht\elite_osttruppen.xml</FileName>
+			<FileHash>c06f98947a56c325d90add7f5ba73b50</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\upgrade\wehrmacht\elite_osttruppen.xml</FileName>
-			<FileHash>968a3cb83b8d869620ed12f3eb6d7624</FileHash>
+			<FileHash>3cdb80233487d01cd9a8e7f413194f7c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\weapon\troll_commanders\koenigskuebelwagen_88mm.xml</FileName>
@@ -150,6 +158,18 @@
 			<FileHash>464b0bc366c405e4d3e0d14eacc9e268</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\data\ui\elite_prosttruppen_passive.png</FileName>
+			<FileHash>20c6107ce163d52fb0c7f0e79875c2ed</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\data\ui\elite_prosttruppen_upgrade.png</FileName>
+			<FileHash>476cd7e891e92e17cd4e41dfa0d6a22a</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\data\ui\more_prosttruppen.png</FileName>
+			<FileHash>e34407c699b8834a924b51b70ca6cd84</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\data\ui\prostfallschirmjaeger_icon.png</FileName>
 			<FileHash>fb8d340ce49af7769bee7d73e1e20aaf</FileHash>
 		</BurnInfo>
@@ -172,6 +192,14 @@
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\data\ui\prostoffizier_portrait_winter.png</FileName>
 			<FileHash>3c208489555c2a53389d74b919e34c99</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\data\ui\prosttruppen_commander.png</FileName>
+			<FileHash>8315bf2ff2357faa89609d53ed4b5493</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\data\ui\prosttruppen_commander_large.png</FileName>
+			<FileHash>a46c47757d88233fa8e4edfe7af87640</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\data\ui\prosttruppen_icon.png</FileName>

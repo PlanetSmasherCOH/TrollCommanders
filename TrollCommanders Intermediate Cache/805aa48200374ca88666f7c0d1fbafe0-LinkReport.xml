@@ -1,45 +1,30 @@
 <report>
   <scripts>
-    <script name="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prosttruppen_icon.as" mod="1476058518102" size="343" optimizedsize="310">
-      <def id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prosttruppen_icon" />
-      <pre id="mx.core:BitmapAsset" />
-      <dep id="AS3" />
-    </script>
-    <script name="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prostoffizier_icon.as" mod="1476099088108" size="344" optimizedsize="311">
-      <def id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prostoffizier_icon" />
-      <pre id="mx.core:BitmapAsset" />
-      <dep id="AS3" />
-    </script>
-    <script name="E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\ModIcons_805aa48200374ca88666f7c0d1fbafe0.mxml" mod="1476100709160" size="1745" optimizedsize="1691">
+    <script name="E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\ModIcons_805aa48200374ca88666f7c0d1fbafe0.mxml" mod="1476133493422" size="2304" optimizedsize="2234">
       <def id="ModIcons_805aa48200374ca88666f7c0d1fbafe0" />
       <pre id="flash.display:MovieClip" />
       <dep id="AS3" />
       <dep id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_beutepanzer_portrait_summer" />
       <dep id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prostoffizier_portrait_summer" />
+      <dep id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prosttruppen_commander_large" />
       <dep id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prostoffizier_portrait_winter" />
       <dep id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_beutepanzer_portrait_winter" />
+      <dep id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prosttruppen_commander" />
+      <dep id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_elite_prosttruppen_passive" />
       <dep id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prosttruppen_portrait_winter" />
-      <dep id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prosttruppen_portrait_summer" />
       <dep id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prostfallschirmjaeger_icon" />
+      <dep id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prosttruppen_portrait_summer" />
       <dep id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prosttruppen_icon" />
       <dep id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prostoffizier_icon" />
+      <dep id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_elite_prosttruppen_upgrade" />
       <dep id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prostfallschirmjaeger_portrait_winter" />
+      <dep id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_more_prosttruppen" />
       <dep id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prostfallschirmjaeger_portrait_summer" />
       <dep id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_beutepanzer_icon" />
-    </script>
-    <script name="ModIcons_805aa48200374ca88666f7c0d1fbafe0_beutepanzer_icon.as" mod="1476100572303" size="342" optimizedsize="309">
-      <def id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_beutepanzer_icon" />
-      <pre id="mx.core:BitmapAsset" />
-      <dep id="AS3" />
     </script>
     <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.core:IFlexAsset)" mod="1451275290000" size="275" optimizedsize="98">
       <def id="mx.core:IFlexAsset" />
       <pre id="Object" />
-      <dep id="AS3" />
-    </script>
-    <script name="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prosttruppen_portrait_summer.as" mod="1476058029915" size="354" optimizedsize="321">
-      <def id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prosttruppen_portrait_summer" />
-      <pre id="mx.core:BitmapAsset" />
       <dep id="AS3" />
     </script>
     <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.core:BitmapAsset)" mod="1451275290000" size="6956" optimizedsize="3793">
@@ -63,6 +48,82 @@
       <pre id="mx.core:BitmapAsset" />
       <dep id="AS3" />
     </script>
+    <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.core:ILayoutDirectionElement)" mod="1451275290000" size="752" optimizedsize="239">
+      <def id="mx.core:ILayoutDirectionElement" />
+      <pre id="Object" />
+      <dep id="AS3" />
+    </script>
+    <script name="ModIcons_805aa48200374ca88666f7c0d1fbafe0_elite_prosttruppen_upgrade.as" mod="1476109936700" size="352" optimizedsize="319">
+      <def id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_elite_prosttruppen_upgrade" />
+      <pre id="mx.core:BitmapAsset" />
+      <dep id="AS3" />
+    </script>
+    <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.core:FlexBitmap)" mod="1451275290000" size="895" optimizedsize="534">
+      <def id="mx.core:FlexBitmap" />
+      <pre id="flash.display:Bitmap" />
+      <dep id="AS3" />
+      <dep id="Error" />
+      <dep id="flash.display:BitmapData" />
+      <dep id="mx.utils:NameUtil" />
+      <dep id="mx.core:mx_internal" />
+    </script>
+    <script name="ModIcons_805aa48200374ca88666f7c0d1fbafe0_more_prosttruppen.as" mod="1476107919753" size="343" optimizedsize="310">
+      <def id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_more_prosttruppen" />
+      <pre id="mx.core:BitmapAsset" />
+      <dep id="AS3" />
+    </script>
+    <script name="ModIcons_805aa48200374ca88666f7c0d1fbafe0_elite_prosttruppen_passive.as" mod="1476108247416" size="352" optimizedsize="319">
+      <def id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_elite_prosttruppen_passive" />
+      <pre id="mx.core:BitmapAsset" />
+      <dep id="AS3" />
+    </script>
+    <script name="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prosttruppen_commander_large.as" mod="1476108671091" size="354" optimizedsize="321">
+      <def id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prosttruppen_commander_large" />
+      <pre id="mx.core:BitmapAsset" />
+      <dep id="AS3" />
+    </script>
+    <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.core:IAssetLayoutFeatures)" mod="1451275290000" size="4485" optimizedsize="867">
+      <def id="mx.core:IAssetLayoutFeatures" />
+      <pre id="Object" />
+      <dep id="AS3" />
+      <dep id="flash.geom:Matrix" />
+      <dep id="flash.geom:Matrix3D" />
+    </script>
+    <script name="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prosttruppen_commander.as" mod="1476108073663" size="348" optimizedsize="315">
+      <def id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prosttruppen_commander" />
+      <pre id="mx.core:BitmapAsset" />
+      <dep id="AS3" />
+    </script>
+    <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.utils:NameUtil)" mod="1451275290000" size="1705" optimizedsize="1093">
+      <def id="mx.utils:NameUtil" />
+      <pre id="Object" />
+      <dep id="flash.display:DisplayObject" />
+      <dep id="AS3" />
+      <dep id="flash.utils:getQualifiedClassName" />
+      <dep id="mx.core:IRepeaterClient" />
+      <dep id="SecurityError" />
+      <dep id="mx.core:mx_internal" />
+    </script>
+    <script name="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prosttruppen_icon.as" mod="1476058518102" size="343" optimizedsize="310">
+      <def id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prosttruppen_icon" />
+      <pre id="mx.core:BitmapAsset" />
+      <dep id="AS3" />
+    </script>
+    <script name="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prostoffizier_icon.as" mod="1476099088108" size="344" optimizedsize="311">
+      <def id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prostoffizier_icon" />
+      <pre id="mx.core:BitmapAsset" />
+      <dep id="AS3" />
+    </script>
+    <script name="ModIcons_805aa48200374ca88666f7c0d1fbafe0_beutepanzer_icon.as" mod="1476100572303" size="342" optimizedsize="309">
+      <def id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_beutepanzer_icon" />
+      <pre id="mx.core:BitmapAsset" />
+      <dep id="AS3" />
+    </script>
+    <script name="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prosttruppen_portrait_summer.as" mod="1476058029915" size="354" optimizedsize="321">
+      <def id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prosttruppen_portrait_summer" />
+      <pre id="mx.core:BitmapAsset" />
+      <dep id="AS3" />
+    </script>
     <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.core:IFlexDisplayObject)" mod="1451275290000" size="6008" optimizedsize="1339">
       <def id="mx.core:IFlexDisplayObject" />
       <pre id="flash.events:IEventDispatcher" />
@@ -83,24 +144,10 @@
       <pre id="mx.core:BitmapAsset" />
       <dep id="AS3" />
     </script>
-    <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.core:ILayoutDirectionElement)" mod="1451275290000" size="752" optimizedsize="239">
-      <def id="mx.core:ILayoutDirectionElement" />
-      <pre id="Object" />
-      <dep id="AS3" />
-    </script>
     <script name="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prosttruppen_portrait_winter.as" mod="1476058256146" size="354" optimizedsize="321">
       <def id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prosttruppen_portrait_winter" />
       <pre id="mx.core:BitmapAsset" />
       <dep id="AS3" />
-    </script>
-    <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.core:FlexBitmap)" mod="1451275290000" size="895" optimizedsize="534">
-      <def id="mx.core:FlexBitmap" />
-      <pre id="flash.display:Bitmap" />
-      <dep id="AS3" />
-      <dep id="Error" />
-      <dep id="flash.display:BitmapData" />
-      <dep id="mx.utils:NameUtil" />
-      <dep id="mx.core:mx_internal" />
     </script>
     <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.core:IRepeaterClient)" mod="1451275290000" size="1149" optimizedsize="321">
       <def id="mx.core:IRepeaterClient" />
@@ -111,13 +158,6 @@
       <def id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prostoffizier_portrait_summer" />
       <pre id="mx.core:BitmapAsset" />
       <dep id="AS3" />
-    </script>
-    <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.core:IAssetLayoutFeatures)" mod="1451275290000" size="4485" optimizedsize="867">
-      <def id="mx.core:IAssetLayoutFeatures" />
-      <pre id="Object" />
-      <dep id="AS3" />
-      <dep id="flash.geom:Matrix" />
-      <dep id="flash.geom:Matrix3D" />
     </script>
     <script name="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prostoffizier_portrait_winter.as" mod="1476098903558" size="355" optimizedsize="322">
       <def id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prostoffizier_portrait_winter" />
@@ -137,16 +177,6 @@
       <def id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_beutepanzer_portrait_winter" />
       <pre id="mx.core:BitmapAsset" />
       <dep id="AS3" />
-    </script>
-    <script name="C:\Program Files (x86)\Apache Flex\frameworks\libs\core.swc(mx.utils:NameUtil)" mod="1451275290000" size="1705" optimizedsize="1093">
-      <def id="mx.utils:NameUtil" />
-      <pre id="Object" />
-      <dep id="flash.display:DisplayObject" />
-      <dep id="AS3" />
-      <dep id="flash.utils:getQualifiedClassName" />
-      <dep id="mx.core:IRepeaterClient" />
-      <dep id="SecurityError" />
-      <dep id="mx.core:mx_internal" />
     </script>
     <script name="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prostfallschirmjaeger_portrait_winter.as" mod="1476099273678" size="363" optimizedsize="330">
       <def id="ModIcons_805aa48200374ca88666f7c0d1fbafe0_prostfallschirmjaeger_portrait_winter" />

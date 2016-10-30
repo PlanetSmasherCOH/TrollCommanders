@@ -33,7 +33,7 @@
 			<locstring name="extra_text" value="60" mod="805aa48200374ca88666f7c0d1fbafe0" />
 			<locstring name="help_text" value="59" mod="805aa48200374ca88666f7c0d1fbafe0" />
 			<string name="hotkey_name" value="V" />
-			<icon name="icon_name" value="Icons_upgrades_icon_upgrade_west_german_smg_mp44_x2" />
+			<icon name="icon_name" value="ModIcons_805aa48200374ca88666f7c0d1fbafe0_elite_prosttruppen_upgrade" />
 			<bool name="reveal_for_decryption" value="False" />
 			<locstring name="screen_name" value="58" mod="805aa48200374ca88666f7c0d1fbafe0" />
 			<locstring name="brief_text" value="0" />
@@ -57,6 +57,11 @@
 					</template_reference>
 				</list>
 				<uniqueid name="id" value="1073741933" />
+			</template_reference>
+			<template_reference name="action" value="action\slot_item_add">
+				<instance_reference name="slot_item" value="slot_item\wehrmacht\elite_osttruppen" mod="805aa48200374ca88666f7c0d1fbafe0" />
+				<bool name="permanent" value="True" />
+				<uniqueid name="id" value="1073741983" />
 			</template_reference>
 		</list>
 		<list name="requirements">
