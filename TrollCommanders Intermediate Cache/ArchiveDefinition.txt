@@ -11,6 +11,8 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\dispatch\ostruppen.rgd
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\abilities\okw\koenigskuebelwagen_dispatch.rgd
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\abilities\okw\koenigstiger_ace_dispatch.rgd
+	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\abilities\okw\sturmtiger_zu_fuss_creeping_barrage.rgd
+	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\abilities\okw\sturmtiger_zu_fuss_dispatch.rgd
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\abilities\wehrmacht\beutepanzer_t34_dispatch.rgd
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\abilities\wehrmacht\elite_osttruppen.rgd
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\abilities\wehrmacht\more_osttruppen.rgd
@@ -23,17 +25,21 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\commander\german\german_ostruppen_tree.rgd
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\ebps\okw\koenigskuebelwagen.rgd
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\ebps\okw\koenigstiger_ace.rgd
+	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\ebps\okw\sturmtiger_zu_fuss.rgd
+	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\ebps\okw\sturmtiger_zu_fuss_rocket.rgd
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\german\buildings\defensive_structure\slit_trench_german_mp.rgd
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\ebps\wehrmacht\ostfallschirmjaeger_plane.rgd
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\ebps\wehrmacht\osttruppen.rgd
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\ebps\wehrmacht\t34_beutepanzer.rgd
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\sbps\okw\koenigskuebelwagen.rgd
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\sbps\okw\koenigstiger_ace.rgd
+	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\sbps\okw\sturmtiger_zu_fuss.rgd
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\sbps\wehrmacht\ostfallschirmjaeger_plane.rgd
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\sbps\wehrmacht\osttruppen.rgd
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\sbps\wehrmacht\t34_beutepanzer.rgd
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\wehrmacht\elite_osttruppen.rgd
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\wehrmacht\elite_osttruppen.rgd
+	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\weapon\okw\sturmtiger_zu_fuss.rgd
 	E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\attrib\attrib\weapon\troll_commanders\koenigskuebelwagen_88mm.rgd
 TOCEnd
 TOCStart name="locale" alias="locale" path="" relativeroot="locale"

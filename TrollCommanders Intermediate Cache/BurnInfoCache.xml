@@ -35,7 +35,15 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\abilities\okw\koenigstiger_ace_dispatch.xml</FileName>
-			<FileHash>364434abd024921e2e599e5d8d6d7c6b</FileHash>
+			<FileHash>8d29ac328faa76ce8522e344e1265a48</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\abilities\okw\sturmtiger_zu_fuss_creeping_barrage.xml</FileName>
+			<FileHash>971ea43b010dc45ca91da574ea27fe77</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\abilities\okw\sturmtiger_zu_fuss_dispatch.xml</FileName>
+			<FileHash>9ee6b322036142d4f04316028b79d1f6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\abilities\wehrmacht\beutepanzer_t34_dispatch.xml</FileName>
@@ -71,7 +79,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\army\west_german.xml</FileName>
-			<FileHash>49f8d4aeeb61c5c4f7cb2b4f3ae7e4d3</FileHash>
+			<FileHash>27b39cfafa193d73101e2859c7d8ab33</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\commander\german\german_ostruppen_tree.xml</FileName>
@@ -84,6 +92,14 @@
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\ebps\okw\koenigstiger_ace.xml</FileName>
 			<FileHash>a7ecb93cb8b3c24afdd7f19637c6833e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\ebps\okw\sturmtiger_zu_fuss.xml</FileName>
+			<FileHash>66e44477662ff4190a83882d55037af2</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\ebps\okw\sturmtiger_zu_fuss_rocket.xml</FileName>
+			<FileHash>edeb335ccb1e7a115429ed8e255d10db</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\ebps\races\german\buildings\defensive_structure\slit_trench_german_mp.xml</FileName>
@@ -107,7 +123,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\sbps\okw\koenigstiger_ace.xml</FileName>
-			<FileHash>896448004c71a5f33fb311e16116ea45</FileHash>
+			<FileHash>16443826db704af01366d2667ea95ec8</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\sbps\okw\sturmtiger_zu_fuss.xml</FileName>
+			<FileHash>afc07627226368f8f6ac4ed6f04e5543</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\sbps\wehrmacht\ostfallschirmjaeger_plane.xml</FileName>
@@ -130,12 +150,16 @@
 			<FileHash>3cdb80233487d01cd9a8e7f413194f7c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\weapon\okw\sturmtiger_zu_fuss.xml</FileName>
+			<FileHash>9b9ab6d5d8ea9f9bc6338e53a92d086b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\instances\weapon\troll_commanders\koenigskuebelwagen_88mm.xml</FileName>
 			<FileHash>836f96699cbd67e909a7506e5ed63afa</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\locale\english\english.ucs</FileName>
-			<FileHash>525aadbf9cbc984c8264ab9af8db7824</FileHash>
+			<FileHash>75eff15286be28d4f5685a74e487d7bd</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\TrollCommanders\TrollCommanders Intermediate Cache\Intermediate Files\info\805aa48200374ca88666f7c0d1fbafe0.info</FileName>

@@ -139,6 +139,7 @@
 			<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\passive_ability\howitzer_105mm_emplacement_unlock_okw" />
 			<instance_reference name="ability" value="abilities\okw\koenigskuebelwagen_dispatch" mod="805aa48200374ca88666f7c0d1fbafe0" />
 			<instance_reference name="ability" value="abilities\okw\koenigstiger_ace_dispatch" mod="805aa48200374ca88666f7c0d1fbafe0" />
+			<instance_reference name="ability" value="abilities\okw\sturmtiger_zu_fuss_dispatch" mod="805aa48200374ca88666f7c0d1fbafe0" />
 		</list>
 		<group name="resource_max_cap">
 			<template_reference name="resource" value="tables\resource_table">
